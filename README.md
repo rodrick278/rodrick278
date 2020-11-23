@@ -9,12 +9,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<div>
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=rodrick278&repo=rodrick278.github.io&show_owner=true&theme=material-palenight)](https://github.com/rodrick278/rodrick278.github.io)
-
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrick278&layout=compact&theme=material-palenight" />
+  </div>
+  
 ![](https://github-readme-stats.vercel.app/api?username=rodrick278&theme=material-palenight)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrick278&layout=compact&theme=material-palenight" />
+
 
 
 
