@@ -1,14 +1,5 @@
-### Hi there 👋
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=rodrick278&repo=rodrick278.github.io&show_owner=true&theme=material-palenight)](https://github.com/rodrick278/rodrick278.github.io)
-
-![](https://github-readme-stats.vercel.app/api?username=rodrick278&theme=material-palenight)
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrick278&layout=compact&theme=material-palenight" />
-
-<!--
-**rodrick278/rodrick278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi here is Rodrick 👋
+[![](https://badgen.net/badge/blog/檐上有月☽/?icon=sourcegraph&color=FFC83D)](https://rodrick.cn) [![](https://badgen.net/badge/github/Rodrick278/?icon=github&color=blue&label)](https://github.com/rodrick278/) [![](https://badgen.net/badge/yuque/yuque/?icon=telegram&color=34CE7B&label)](https://www.yuque.com/rodrick-miz0p)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +9,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=rodrick278&repo=rodrick278.github.io&show_owner=true&theme=material-palenight)](https://github.com/rodrick278/rodrick278.github.io)
+
+![](https://github-readme-stats.vercel.app/api?username=rodrick278&theme=material-palenight)
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrick278&layout=compact&theme=material-palenight" />
+
+
+
+
