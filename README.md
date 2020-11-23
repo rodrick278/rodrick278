@@ -1,4 +1,4 @@
-![image-20201123182817456](public/wallhaven-yjw7jk.png)
+![image-20201123182817456](public/wallhaven-yjw7jk.webp)
 
 ### Hi  👋
 
