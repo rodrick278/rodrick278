@@ -8,7 +8,7 @@
 
 - 🦾 **Cyberpunk** fans
 
-- 🌱 I’m currently learning  **Javascript-Algorithms Vue React**
+- 🌱 I’m currently learning  **Javascript-Algorithms, Vue3, React, TypeScript, etc.**
 
 - 💬 Ask me about anything, I am happy to help
 
