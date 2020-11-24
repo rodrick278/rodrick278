@@ -6,7 +6,7 @@
 
 - 🔭 I'm **Rodrick**
 
-- 🦾 **Cyberpunk**
+- 🦾 **Cyberpunk** fans
 
 - 🌱 I’m currently learning  **Javascript-Algorithms Vue React**
 
