@@ -17,5 +17,5 @@
   
 
 ![Focus Repo](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rodrick278&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)<br/>
-![Focus Repo](https://github-readme-stats.vercel.app/api?username=rodrick278&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=prs,contribs)<br/>
+![Focus Repo](https://github-readme-stats.vercel.app/api?username=rodrick278&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&hide=prs,contribs)<br/>
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=rodrick278&repo=rodrick278.github.io&show_owner=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/rodrick278/rodrick278.github.io)[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=rodrick278&repo=Mall&show_owner=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/rodrick278/Mall)
